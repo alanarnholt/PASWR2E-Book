@@ -1,4 +1,4 @@
-RepResR-RStudio
+PASWR2E-Book
 ===============
 
-A website for the book "Reproducible Research with R and RStudio"
+A website for the book TBA
