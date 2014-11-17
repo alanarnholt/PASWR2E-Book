@@ -1,5 +1,6 @@
 # Site settings
-title: PASWR2E-Book
+title: Probability and Statistics with R
+author: Alan Arnholt
 baseurl: /PASWR2E-Book
 markdown: redcarpet
 highlighter: pygments
