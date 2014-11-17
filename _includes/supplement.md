@@ -11,10 +11,10 @@
   </div>
   <div class="row">
     <div class="span4 offset2">
-      <a class="btn btn-warning btn-large" href="https://github.com/christophergandrud/Rep-Res-Examples">Individual Chapter Examples</a>
+      <a class="btn btn-warning btn-large" href="#">Individual Chapter Examples</a>
     </div>
     <div class="span3 offset1">
-      <a class="btn btn-warning btn-large" href="https://github.com/christophergandrud/Rep-Res-ExampleProject1">Example Research Project</a>
+      <a class="btn btn-warning btn-large" href="#">Example Research Project</a>
     </div>
       <br><br><br><br>
   </div>

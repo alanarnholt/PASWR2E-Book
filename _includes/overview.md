@@ -5,7 +5,7 @@
   </div>
   <div class="row">
     <div class="span11">
-      <blockquote><em>Reproducible Research with R &amp; RStudio</em> gives you tools for data gathering, analysis, and presentation of results so that you can create dynamic and highly reproducible research.</blockquote>
+      <blockquote><em>{{ site.title }}</em> gives you tools for data gathering, analysis, and presentation of results so that you can create dynamic and highly reproducible research.</blockquote>
       <br>
       <p class="lead"><strong>Tools you will learn as part of a reproducible research workflow:</strong></p>
       <br>
