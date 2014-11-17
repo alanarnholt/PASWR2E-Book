@@ -1,0 +1,5 @@
+# Site settings
+title: PASWR2E-Book
+baseurl: /PASWR2E-Book
+markdown: redcarpet
+highlighter: pygments
