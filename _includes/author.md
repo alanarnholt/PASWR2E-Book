@@ -1,11 +1,11 @@
-<!-- About the Author -->
+<!-- About the Authors -->
 <section id="author">
   <div class="page-header">
-    <h2>About the Author</h2>
+    <h2>About the Authors</h2>
   </div>
   <div class="row">
     <div class="span10 offset1">
-      <p>Insert Bio Here</p>
+      <p>Insert Bios Here</p>
     </div>
   </div>
 </section>
