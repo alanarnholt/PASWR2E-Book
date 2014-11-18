@@ -11,7 +11,7 @@
   </div>
   <div class="row">
     <div class="span4 offset2">
-      <a class="btn btn-warning btn-large" href="#">Individual Chapter Examples</a>
+      <a class="btn btn-warning btn-large" href="#">Odd Answers to Problems</a>
     </div>
     <div class="span3 offset1">
       <a class="btn btn-warning btn-large" href="#">Example Research Project</a>
