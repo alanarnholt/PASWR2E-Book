@@ -1,4 +1,4 @@
 PASWR2E-Book
 ===============
 
-A website for the book Probability and Statistics with R
+A website for the book *Probability and Statistics with R, 2nd Edition*
