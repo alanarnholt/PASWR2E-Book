@@ -5,7 +5,7 @@
   </div>
   <div class="row">
     <div class="span10 offset1">
-      <p>You can freely download odd answers to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.</p>
+      <p>You can freely download odd answers to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.  The text is supported with the R package <a href="http://alanarnholt.github.io/PASWR2/">PASWR2</a>.</p>
       <br><br>
     </div>
   </div>
