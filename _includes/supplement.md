@@ -5,7 +5,7 @@
   </div>
   <div class="row">
     <div class="span10 offset1">
-      <p>You can freely download supplementary files used for examples discussed in the books chapters as well as a short, but complete reproducible research project.</p>
+      <p>You can freely download odd answers to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.</p>
       <br><br>
     </div>
   </div>
@@ -14,7 +14,7 @@
       <a class="btn btn-warning btn-large" href="#">Odd Answers to Problems</a>
     </div>
     <div class="span3 offset1">
-      <a class="btn btn-warning btn-large" href="#">Example Research Project</a>
+      <a class="btn btn-warning btn-large" href="#">Homework template using knitr and RMarkdown</a>
     </div>
       <br><br><br><br>
   </div>
