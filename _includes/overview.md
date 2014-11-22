@@ -5,34 +5,47 @@
   </div>
   <div class="row">
     <div class="span11">
-      <blockquote><em>{{ site.title }}</em> gives you tools for data gathering, analysis, and presentation of results so that you can create dynamic and highly reproducible research.</blockquote>
-      <br>
-      <p class="lead"><strong>Tools you will learn as part of a reproducible research workflow:</strong></p>
-      <br>
+      <p class="lead"><em>Practical and Visually Appealing with Clear Examples and Fully Detailed Proofs</em></p>
+      <blockquote><strong>{{ site.title }}</strong> shows how to solve various statistical problems using both parametric and nonparametric techniques via the open source software R.  It provides numerous real-world examples, carefully explained proofs, end-of-chapter problems, and illuminating graphs to facilitate the hands-on comprehension.</blockquote>
+      <br />
+    </div>
+  </div>
+  <div class="row">
+    <div class="span11">
+      <p class="lead"><em>Delves into Many Probability and Statistical Topics</em></p>
+      <blockquote>Integrating theory with practice, the text briefly introduces the syntax, structures, and functions of the R language, before covering important graphical and numerical methods of exploring data.  The package <code>ggplot2</code> is used throughout the book to create graphs.  The next several chapters elucidate probability and random variables topics, including univariate and multivariate distributions.  After exploring sampling distributions, the authors discuss point estimation, confidence intervals, hypothesis testing, and a wide range of nonparametric methods, spotlighting the bootstrap and permutation tests.  The book also presents fixed- and random-effects models as well as randomized block and two-factor factorial designs in a chapter on experimental design.  The final chapter describes simple and multiple regression analyses with an emphasis on model validation.</blockquote>
+      <br />
+    </div>
+  </div>
+  <div class="row">
+    <div class="span11">
+      <p class="lead"><em>Cohesively Incorporates Statistical Theory with R Implementation</em></p>
+      <blockquote>This comprehensive book presents extensive treatments of data analysis using parametric and nonparametric techniques.  It effectively links statistical concepts with R procedures, empowering the reader to solve a vast array of statistical problems with R. </blockquote>
+      <br />
+      <p class="lead"><strong>Features</strong></p>
     </div>
   </div>
   <div class="row">
     <div class="span3">
-      <p><a href="http://www.r-project.org/">R</a>: a programming language primarily for statistics and graphics. We will focus on using it for dynamic data gathering and presenting results.</p>
+      <p>Provides real-world examples of how R can be used to solve problems in probability and statistics, along with an overview on how to use R.</p>
     </div>
     <div class="span3 offset1">
-      <p><a href="http://yihui.name/knitr/">knitr</a>: an R package for literate programming, i.e. it allows you to combine your statistical analysis and the presentation of the results into one document. It works with R and a number of other languages such as Bash, Python, and Ruby.</p>
+      <p>Explains the mathematics behind computational implementations.</p>
     </div>
     <div class="span3 offset1">
-      <p><strong>Markup languages</strong>: instructions for how to format a presentation document. Specifically we cover <a href="http://www.latex-project.org/">LaTeX</a> for creating PDF articles and slide shows, as well as <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, and a little <a href="http://en.wikipedia.org/wiki/HTML">HTML</a> for presenting results on the web.</p>
+      <p>Covers both traditional methods and nonparametric techniques, including goodness-of-fit tests, categorical data analysis, nonparametric bootstrapping, and permutation tests.</p>
     </div>
   </div>
-  <br><br>
+  <br />
   <div class="row">
     <div class="span3">
-      <p><a href="http://www.rstudio.com/">RStudio</a>: an integrated developer environment (IDE) for R that tightly integrates R, knitr, and markup languages.</p>
+      <p>Uses regression analysis procedures to solve three interesting case studies based on real data.</p>
     </div>
     <div class="span3 offset1">
-      <p><strong>Cloud storage &amp; versioning</strong>: Services such as <a href="https://www.dropbox.com">Dropbox</a> and <a href="http://git-scm.com/">Git</a>/<a href="https://github.com/">Github</a> that can store data, code, and presentation files, save previous versions of these files, and make this information widely available.</p>
+      <p>Presents thoroughly worked-out derivations, detailed graphs, and abundant problems.</p>
     </div>
     <div class="span3 offset1">
-      <p><strong>Unix-like shell programs</strong>: These tools are useful for working with large research projects. They also allow us to use command line tools including <a href="http://www.gnu.org/software/make/">GNU Make</a> for compiling projects and <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a>, a program useful for converting documents from one markup language to another.</p>
+      <p>Provides the <a href="https://github.com/alanarnholt/PASWR2">PASWR2</a> package, which contains data sets and functions from the text.</p>
     </div>
-    <br><br><br><br>
   </div>
 </section>
