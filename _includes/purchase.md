@@ -8,7 +8,7 @@
       <p>The book is expected to be published in TBA.</p>
       <p>You can <strong>pre-order</strong> it from:</p>
       <ul>
-       <li><a href="http://www.crcpress.com/product/isbn/9781584888918">Chapman &amp; Hall</a></li>
+       <li><a href="http://www.crcpress.com/product/isbn/9781466504394">Chapman &amp; Hall</a></li>
       </ul>
       <br><br><br><br>
     </div>
