@@ -1,6 +1,6 @@
 # Site settings
-title: Probability and Statistics with R, 2nd Edition
-author: Maria Ugarte, Ana Militino, Alan Arnholt
+title: Probability and Statistics with R, Second Edition
+author: Maria Dolores Ugarte, Ana Militino, Alan Arnholt
 baseurl: /PASWR2E-Book
 markdown: redcarpet
 highlighter: pygments
