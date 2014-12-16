@@ -45,7 +45,7 @@
       <p>Presents thoroughly worked-out derivations, detailed graphs, and abundant problems.</p>
     </div>
     <div class="span3 offset1">
-      <p>Provides the <a href="https://github.com/alanarnholt/PASWR2">PASWR2</a> package, which contains data sets and functions from the text.</p>
+      <p>Provides the <a href="http://cran.r-project.org/web/packages/PASWR2/index.html">PASWR2</a> package, which contains data sets and functions from the text.</p>
     </div>
   </div>
 </section>
