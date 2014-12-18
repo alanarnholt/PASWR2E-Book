@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="row">
-  `junk`
+  
   </div>
   <div class="row">
     <div class="span4 offset2">
