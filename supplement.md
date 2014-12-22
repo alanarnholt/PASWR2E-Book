@@ -12,6 +12,11 @@ active: supplement
     <div class="span10 offset1">
       <p>You can freely download odd answers to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.  The text is supported with the R package <a href="http://cran.r-project.org/web/packages/PASWR2/index.html">PASWR2</a> which provides data sets and functions from the book.</p>
       <br><br>
+      
+      <div markdown="1">
+This [link](http://google.com) should be rendered as **markdown**.
+</div>
+      
     </div>
   </div>
 </section>
