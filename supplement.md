@@ -19,6 +19,7 @@ active: supplement
 
 ```
 # Install PASWR2 package from CRAN
+
 install.packages("PASWR2")
 ``` 
 
