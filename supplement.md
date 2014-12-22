@@ -20,9 +20,9 @@ active: supplement
 
 Just for kicks:
 
-```r
-# some comment
-install.packages("PASWR2")
+```
+    head(EPIDURALF)
+    install.packages("PASWR2")
 ```
 
 
