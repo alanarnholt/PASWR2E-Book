@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!-- Supplementary Materials -->
 <section>
   <div class="page-header" id="supplement">
