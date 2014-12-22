@@ -16,9 +16,11 @@ active: supplement
       <div markdown="1">
 You can install `PASWR2` directly from CRAN with the following code: 
 
-`r install.packages("PASWR2")`
+`install.packages("PASWR2")`
 
-This [link](http://google.com) should be rendered as **markdown**.
+Please visit the GitHub site [https://github.com/alanarnholt/PASWR2](https://github.com/alanarnholt/PASWR2) to install the latest development version of `PASWR2`.
+
+
 </div>
       
     </div>
