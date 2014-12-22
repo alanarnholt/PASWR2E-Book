@@ -16,7 +16,8 @@ active: supplement
       <div markdown="1">
       
 * You can install `PASWR2` directly from CRAN by typing 
-```install.packages("PASWR2")
+```
+install.packages("PASWR2")
 ``` 
 at the `R` prompt. 
 
