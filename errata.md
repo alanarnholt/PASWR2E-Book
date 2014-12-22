@@ -13,7 +13,9 @@ active: errata
     <!-- Note that all Markdown content but be outdented, including the surrounding div -->
 <div markdown="1">
 This [link](http://google.com) should be rendered as **markdown**.
-* Chapter 12 --- Fix this!
+
+1. Chapter 12 --- Fix this!
+2. No more typos please.
 </div>
     </div>
   </div>
