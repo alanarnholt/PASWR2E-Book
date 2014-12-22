@@ -18,10 +18,11 @@ active: supplement
 * You can install `PASWR2` directly from CRAN by typing 
 
 ```
+# Install PASWR2 package from CRAN
 install.packages("PASWR2")
 ``` 
 
-at the `R` prompt. 
+
 
 * The latest development version of `PASWR2` can be obtained from [https://github.com/alanarnholt/PASWR2](https://github.com/alanarnholt/PASWR2).
 
