@@ -11,8 +11,7 @@ active: supplement
   <div class="row">
     <div class="span10 offset1">
       <p>You can freely download odd answers to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.  The text is supported with the R package <a href="http://cran.r-project.org/web/packages/PASWR2/index.html">PASWR2</a> which provides data sets and functions from the book.</p>
-      <br><br>
-      
+      <br><br>      
       <div markdown="1">
       
 * You can install `PASWR2` directly from CRAN by typing 
@@ -20,11 +19,12 @@ active: supplement
 
 * The latest development version of `PASWR2` can be obtained from [https://github.com/alanarnholt/PASWR2](https://github.com/alanarnholt/PASWR2).
 
-
 </div>
 
  <p>
+ 
  This is an experiment
+ <script src="https://gist.github.com/alanarnholt/e5e922b750a4f4f5ede4.js"></script>
  </p>
  
     </div>
