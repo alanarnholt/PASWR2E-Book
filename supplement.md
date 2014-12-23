@@ -23,7 +23,8 @@ active: supplement
 
  <p>
  
- This is an experiment
+ Install PASWR2 gist:
+ 
  <script src="https://gist.github.com/alanarnholt/e5e922b750a4f4f5ede4.js"></script>
  </p>
  
