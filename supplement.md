@@ -19,12 +19,10 @@ active: supplement
 
 * The latest development version of `PASWR2` can be obtained from [https://github.com/alanarnholt/PASWR2](https://github.com/alanarnholt/PASWR2).
 
+ Install `PASWR2` gist:
 </div>
 
- <p>
- 
- Install PASWR2 gist:
- 
+ <p> 
  <script src="https://gist.github.com/alanarnholt/e5e922b750a4f4f5ede4.js"></script>
  </p>
  
