@@ -24,6 +24,21 @@
       Spatial and Spatio-temporal Epidemiology.</p>
     </div>
   </div>
+   <br />
+  <br />
+  <div class="row">
+    <div class="span10 offset1">
+      <p>Ana F. Militino has a degree in Mathematics from the University of 
+      Zaragoza (Spain) and a Ph.D. in Statistics from the University of Extremadura 
+      (Spain). She was a visiting professor at Oxford University in 1994 and at Simon 
+      Fraser University (Canada) in 1997 and 1998. She is a full professor of 
+      Statistics at the Public University of Navarre, Spain.  She teaches statistics 
+      in undergraduate and graduate programs. In 2010, she received the John 
+      Griffiths teaching award from the International Association of Mathematical 
+      Geology.  Ana is co-editor in chief of TEST, the journal of the Spanish 
+      Statistical Society.</p>
+    </div>
+  </div>
   <br />
   <br />
   <div class="row">
