@@ -9,6 +9,7 @@
       <p>You can <strong>pre-order</strong> it from:</p>
       <ul>
        <li><a href="http://www.crcpress.com/product/isbn/9781466504394">Chapman &amp; Hall</a></li>
+       <li><a href="http://www.amazon.com/dp/1466504390/ref=sr_ob_1?ie=UTF8&qid=1420126683&sr=8-1">Amazon</a></li>
       </ul>
       <br><br><br><br>
     </div>
