@@ -10,7 +10,7 @@ active: supplement
   </div>
   <div class="row">
     <div class="span10 offset1">
-      <p>You can freely download <a href="{{ site.baseurl }}/PASWR2ESMODDforWEB.pdf">odd answers</a> to all problems in the book as well as an example template for solving problems using RMarkdown with the knitr package.  The text is supported with the R package <a href="http://cran.r-project.org/web/packages/PASWR2/index.html">PASWR2</a> which provides data sets and functions from the book.</p>
+      <p>You can freely download <a href="{{ site.baseurl }}/PASWR2ESMODDforWEB.pdf">odd answers</a> to all problems in the book as well as an <a href="https://github.com/alanarnholt/Homework-Examples">example template</a> for solving problems using R Markdown.  The text is supported with the R package <a href="http://cran.r-project.org/web/packages/PASWR2/index.html">PASWR2</a> which provides data sets and functions from the book.</p>
       <br><br>      
       <div markdown="1">
       
