@@ -13,6 +13,13 @@ active: errata
     <!-- Note that all Markdown content but be outdented, including the surrounding div -->
 <div markdown="1">
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+
+
 * Page 209: ...conditioning event G, *then* enumerating... should read: conditioning event G, *than* enumerating  
 
 * Page 244: Problem 54 - Given the following cumulative *density* function should read Given the following cumulative *distribution* function
