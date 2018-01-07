@@ -14,7 +14,7 @@ active: errata
 <div markdown="1">
 
 * Page 485: `lep <- (15 - 1) + 5.2449/uchi` should be `lep <- (15 - 1) + 5.2429/uchi`, and
-`uep <- (15 - 1) + 5.2449/uchi` should be `uep <- (15 - 1) + 5.2429/uchi`.
+`uep <- (15 - 1) + 5.2449/lchi` should be `uep <- (15 - 1) + 5.2429/lchi`.
 
 
 * If you find typos or errors, please report them at [https://github.com/alanarnholt/PASWR2E-Book/issues](https://github.com/alanarnholt/PASWR2E-Book/issues) so we can fix them.
