@@ -13,7 +13,7 @@ active: errata
     <!-- Note that all Markdown content but be outdented, including the surrounding div -->
 <div markdown="1">
 
-1. Page 485: `lep <- (15 - 1) + 5.2449/uchi` should be `lep <- (15 - 1) + 5.2429/uchi`, and
+* Page 485: `lep <- (15 - 1) + 5.2449/uchi` should be `lep <- (15 - 1) + 5.2429/uchi`, and
 `uep <- (15 - 1) + 5.2449/uchi` should be `uep <- (15 - 1) + 5.2429/uchi`.
 
 
