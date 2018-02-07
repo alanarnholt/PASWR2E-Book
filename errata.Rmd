@@ -4,7 +4,8 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(PASWR2)
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
 ## Errata
@@ -14,6 +15,33 @@ knitr::opts_chunk$set(echo = TRUE)
 <center> Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")` </center>
 
 --------------------
+
+* Page 132 Example 2.21 had the following:
+
+```{r}
+meanSEC <- mean(SDS4$times)
+meanMIN <- mean(SDS4$times/60)
+c(meanSEC, meanMIN)
+sdSEC <- sd(SDS4$times)
+sdMIN <- sd(SDS4$times/60)
+c(sdSEC, sdMIN)
+CVsec <- meanSEC/sdSEC
+CVmin <- meanMIN/sdMIN
+c(CVsec, CVmin)
+```
+ changed to
+ 
+```{r}
+meanSEC <- mean(SDS4$times)
+meanMIN <- mean(SDS4$times/60)
+c(meanSEC, meanMIN)
+sdSEC <- sd(SDS4$times)
+sdMIN <- sd(SDS4$times/60)
+c(sdSEC, sdMIN)
+CVsec <- sdSEC/meanSEC
+CVmin <- sdMIN/meanMIN
+c(CVsec, CVmin)
+```
 
 * Page 209: ...conditioning event G, *then* enumerating... should read: conditioning event G, *than* enumerating  
 
@@ -29,6 +57,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * Page 551: $T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n - 1}$ should be $T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n_D - 1}$
 
 * With update in `ggplot2`, everywhere `ggplot_hline(y = value)` appears now needs to be `ggplot_hline(yintercept = value)`
+
+
+ 
+
 
 -------------------
 

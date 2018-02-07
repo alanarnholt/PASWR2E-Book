@@ -126,9 +126,37 @@ $(document).ready(function () {
 <h2>Errata</h2>
 <hr />
 <center>
-Last Updated on: Jan 07, 2018 at 04:21:16 PM
+Last Updated on: Feb 07, 2018 at 07:35:47 AM
 </center>
 <hr />
+<ul>
+<li>Page 132 Example 2.21 had the following:</li>
+</ul>
+<pre class="r"><code>meanSEC &lt;- mean(SDS4$times)
+meanMIN &lt;- mean(SDS4$times/60)
+c(meanSEC, meanMIN)</code></pre>
+<pre><code>[1] 7.80 0.13</code></pre>
+<pre class="r"><code>sdSEC &lt;- sd(SDS4$times)
+sdMIN &lt;- sd(SDS4$times/60)
+c(sdSEC, sdMIN)</code></pre>
+<pre><code>[1] 7.871402 0.131190</code></pre>
+<pre class="r"><code>CVsec &lt;- meanSEC/sdSEC
+CVmin &lt;- meanMIN/sdMIN
+c(CVsec, CVmin)</code></pre>
+<pre><code>[1] 0.9909289 0.9909289</code></pre>
+<p>changed to</p>
+<pre class="r"><code>meanSEC &lt;- mean(SDS4$times)
+meanMIN &lt;- mean(SDS4$times/60)
+c(meanSEC, meanMIN)</code></pre>
+<pre><code>[1] 7.80 0.13</code></pre>
+<pre class="r"><code>sdSEC &lt;- sd(SDS4$times)
+sdMIN &lt;- sd(SDS4$times/60)
+c(sdSEC, sdMIN)</code></pre>
+<pre><code>[1] 7.871402 0.131190</code></pre>
+<pre class="r"><code>CVsec &lt;- sdSEC/meanSEC
+CVmin &lt;- sdMIN/meanMIN
+c(CVsec, CVmin)</code></pre>
+<pre><code>[1] 1.009154 1.009154</code></pre>
 <ul>
 <li><p>Page 209: …conditioning event G, <em>then</em> enumerating… should read: conditioning event G, <em>than</em> enumerating</p></li>
 <li><p>Page 244: Problem 54 - Given the following cumulative <em>density</em> function should read Given the following cumulative <em>distribution</em> function</p></li>
