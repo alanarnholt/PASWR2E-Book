@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 
 --------------------
 
-* Page 132 Example 2.21 had the following:
+* Page 132 Example 2.21 has the following code:
 
 ```{r}
 meanSEC <- mean(SDS4$times)
@@ -29,7 +29,8 @@ CVsec <- meanSEC/sdSEC
 CVmin <- meanMIN/sdMIN
 c(CVsec, CVmin)
 ```
- changed to
+
+The code defining the CV has $\bar{X}/S$ instead of $S/\bar{X}$.  The code should be changed as shown below.
  
 ```{r}
 meanSEC <- mean(SDS4$times)

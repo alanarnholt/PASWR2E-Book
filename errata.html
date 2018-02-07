@@ -126,11 +126,11 @@ $(document).ready(function () {
 <h2>Errata</h2>
 <hr />
 <center>
-Last Updated on: Feb 07, 2018 at 07:35:47 AM
+Last Updated on: Feb 07, 2018 at 07:49:35 AM
 </center>
 <hr />
 <ul>
-<li>Page 132 Example 2.21 had the following:</li>
+<li>Page 132 Example 2.21 has the following code:</li>
 </ul>
 <pre class="r"><code>meanSEC &lt;- mean(SDS4$times)
 meanMIN &lt;- mean(SDS4$times/60)
@@ -144,7 +144,7 @@ c(sdSEC, sdMIN)</code></pre>
 CVmin &lt;- meanMIN/sdMIN
 c(CVsec, CVmin)</code></pre>
 <pre><code>[1] 0.9909289 0.9909289</code></pre>
-<p>changed to</p>
+<p>The code defining the CV has <span class="math inline">\(\bar{X}/S\)</span> instead of <span class="math inline">\(S/\bar{X}\)</span>. The code should be changed as shown below.</p>
 <pre class="r"><code>meanSEC &lt;- mean(SDS4$times)
 meanMIN &lt;- mean(SDS4$times/60)
 c(meanSEC, meanMIN)</code></pre>
