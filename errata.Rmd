@@ -59,7 +59,7 @@ c(CVsec, CVmin)
 
 * With update in `ggplot2`, everywhere `ggplot_hline(y = value)` appears now needs to be `ggplot_hline(yintercept = value)`
 
-
+* Page 805 Table 12.3 $\hat{\beta}$ in the SSR formulation is missing a transpose.  Should be $SSR = \hat{\beta}'\mathbf{X}'\mathbf{Y}- \frac{1}{n}\mathbf{Y}'\mathbf{J}\mathbf{Y}$
  
 
 
