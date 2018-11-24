@@ -53,6 +53,9 @@ c(CVsec, CVmin)
 * Page 485: `lep <- (15 - 1) + 5.2449/uchi` should be `lep <- (15 - 1) + 5.2429/uchi`, and
 `uep <- (15 - 1) + 5.2449/lchi` should be `uep <- (15 - 1) + 5.2429/lchi`
 
+* Page 497 leads to the quadratic equation $\left(z_{1-\alpha/2}^2 + n \right)p^2 -\left( 2n\hat{p} + z_{1-\alpha/2} \right)p +  n\hat{p}^2$ should be
+$\left(z_{1-\alpha/2}^2 + n \right)p^2 -\left( 2n\hat{p} + z_{1-\alpha/2}^2 \right)p +  n\hat{p}^2$
+
 * Page 545: Exampe 9.11 - `STCHOOL` should be `STSCHOOL`
 
 * Page 551: $T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n - 1}$ should be $T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n_D - 1}$

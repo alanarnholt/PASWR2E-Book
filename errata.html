@@ -90,6 +90,9 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
 }
@@ -126,7 +129,7 @@ $(document).ready(function () {
 <h2>Errata</h2>
 <hr />
 <center>
-Last Updated on: Mar 13, 2018 at 05:23:03 PM
+Last Updated on: Nov 24, 2018 at 11:48:26 AM
 </center>
 <hr />
 <ul>
@@ -162,6 +165,7 @@ c(CVsec, CVmin)</code></pre>
 <li><p>Page 244: Problem 54 - Given the following cumulative <em>density</em> function should read Given the following cumulative <em>distribution</em> function</p></li>
 <li><p>Page 340: R Code 5.15 - <code>facet_grid(. ~ r)</code> should read <code>facet_grid(. ~ r, labeller = label_parsed)</code></p></li>
 <li><p>Page 485: <code>lep &lt;- (15 - 1) + 5.2449/uchi</code> should be <code>lep &lt;- (15 - 1) + 5.2429/uchi</code>, and <code>uep &lt;- (15 - 1) + 5.2449/lchi</code> should be <code>uep &lt;- (15 - 1) + 5.2429/lchi</code></p></li>
+<li><p>Page 497 leads to the quadratic equation <span class="math inline">\(\left(z_{1-\alpha/2}^2 + n \right)p^2 -\left( 2n\hat{p} + z_{1-\alpha/2} \right)p + n\hat{p}^2\)</span> should be <span class="math inline">\(\left(z_{1-\alpha/2}^2 + n \right)p^2 -\left( 2n\hat{p} + z_{1-\alpha/2}^2 \right)p + n\hat{p}^2\)</span></p></li>
 <li><p>Page 545: Exampe 9.11 - <code>STCHOOL</code> should be <code>STSCHOOL</code></p></li>
 <li><p>Page 551: <span class="math inline">\(T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n - 1}\)</span> should be <span class="math inline">\(T=\frac{\bar{D}-\mu_{D}}{S_D/\sqrt{n_D}} \sim t_{n_D - 1}\)</span></p></li>
 <li><p>With update in <code>ggplot2</code>, everywhere <code>ggplot_hline(y = value)</code> appears now needs to be <code>ggplot_hline(yintercept = value)</code></p></li>
