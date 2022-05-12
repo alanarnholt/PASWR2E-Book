@@ -50,6 +50,10 @@ c(CVsec, CVmin)
 
 * Page 340: R Code 5.15 - `facet_grid(. ~ r)` should read `facet_grid(. ~ r, labeller = label_parsed)`
 
+* Page 381: The solution for Example 6.16 has $P \dot\sim N\left(0.383, \sqrt{\tfrac{(0.383)(0.617)}{250}} = 0.0019 \right).$ The solution should read:
+
+$$P \dot\sim N\left(0.383, \sqrt{\tfrac{(0.383)(0.617)}{250}} = `r round(sqrt(.383*.617/250),4)` \right)$$
+
 * Page 485: `lep <- (15 - 1) + 5.2449/uchi` should be `lep <- (15 - 1) + 5.2429/uchi`, and
 `uep <- (15 - 1) + 5.2449/lchi` should be `uep <- (15 - 1) + 5.2429/lchi`
 
