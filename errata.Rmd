@@ -66,6 +66,26 @@ $\left(z_{1-\alpha/2}^2 + n \right)p^2 -\left( 2n\hat{p} + z_{1-\alpha/2}^2 \rig
 
 * With update in `ggplot2`, everywhere `ggplot_hline(y = value)` appears now needs to be `ggplot_hline(yintercept = value)`
 
+* Page 717 problem (e) has
+
+\begin{align*}
+\lambda &= \dfrac{SS_{Hypothesis}}{\sigma^2}\\
+&=\frac{\sum_{i=1}^a n_i (\mu_{i\bullet} -
+\bar{\mu}_{\bullet\bullet})^2}{\sigma^2} \\
+&= \dfrac{ 6\cdot(390-405)^2 + 6\cdot(405-405)^2 + 12\cdot(415-405)^2 + 12\cdot(410-405)^2}{14^2} \\
+&= \dfrac{2635}{14^2} = 13.3929.
+\end{align*}
+
+In the case with uneven sample sizes, $\bar{\mu}_{\bullet\bullet} = \frac{(6\cdot390 + 6\cdot405 + 12 \cdot 415 + 12 \cdot 410)}{(6 + 6 + 12 + 12)}= 407.5$, and the 405 should be replaced with 407.5 as shown below.
+
+\begin{align*}
+\lambda &= \dfrac{SS_{Hypothesis}}{\sigma^2}\\
+&=\frac{\sum_{i=1}^a n_i (\mu_{i\bullet} -
+\bar{\mu}_{\bullet\bullet})^2}{\sigma^2} \\
+&= \dfrac{ 6\cdot(390-407.5)^2 + 6\cdot(405-407.5)^2 + 12\cdot(415-407.5)^2 + 12\cdot(410-407.5)^2}{14^2} \\
+&= \dfrac{2635}{14^2} = 13.3929.
+\end{align*}
+
 * Page 805 Table 12.3 $\hat{\beta}$ in the SSR formulation is missing a transpose.  Should be $SSR = \hat{\beta}'\mathbf{X}'\mathbf{Y}- \frac{1}{n}\mathbf{Y}'\mathbf{J}\mathbf{Y}$
  
 
